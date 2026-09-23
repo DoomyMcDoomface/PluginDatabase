@@ -94,3 +94,7 @@
 [submodule "plugins/protondb-library"]
 	path = plugins/protondb-library-badges
 	url = https://github.com/Yohlo/protondb-library-badges
+[submodule "plugins/SteamTunes"]
+	path = plugins/SteamTunes
+	url = https://github.com/DoomyMcDoomface/SteamTunes.git
+	branch = production
